@@ -1,0 +1,16 @@
+.header{
+    padding: 3rem;
+    margin-bottom: 2rem;
+    text-align: center;
+    width: 100%;
+    height: 5rem;
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.3rem;
+    background: -webkit-linear-gradient(left top,#484267, #a71f1f);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
